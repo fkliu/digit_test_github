@@ -1,0 +1,2 @@
+# digit_test_github
+用于测试github上digit的功能
